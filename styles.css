@@ -1,13 +1,33 @@
- #decision1, #decision-2a, #decision-2b, #decision-2c, #decision-3a, #decision-3b, #decision-4a, #decision-5a, #decision-5b, #decision-5c, #decision-6a, #decision-6b, #decision-6c, #decision-6d, #decision-6e, #decision-7a, #decision-7b, #decision-7c, #decision-7d, #decision-7e, #decision-7f, #decision-7g, #decision-7h,{
-   display: none;
- }
- h1 {
-   font-weight: bold;
-   font-size: 20pt;
-   text-align: center;
- }
- h2 {color: #ff0000
-   font-weight: bold;
-   font-size: 40pt;
-   text-align: right;
- }
+
+
+
+body {
+  background-color: #969ca5;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+h1 {
+  font-family: "nosifer", nosifer, serif;
+}
+
+h2 { font-family: "Crimson Text"; font-size: 32px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; }
+
+h3 { font-family: "Crimson Text"; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Crimson Text"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Crimson Text"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Crimson Text"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+
+#decision1, #decision-2a, #decision-2b, #decision-2c, #decision-3a, #decision-3b, #decision-4a, #decision-5a, #decision-5b, #decision-5c, #decision-6a, #decision-6b, #decision-6c, #decision-6d, #decision-6e, #decision-7a, #decision-7b, #decision-7c, #decision-7d, #decision-7e, #decision-7f, #decision-7g, #decision-7h,{
+  display: none;
+}
+h1 {
+  font-weight: bold;
+  /* font-size: 20pt; */
+  text-align: center;
+}
+h2 {color: #ff0000
+  font-weight: bold;
+  /* font-size: 40pt; */
+  text-align: right;
+}
